@@ -1,2 +1,2 @@
 # alexa
-Alexa is kind of a recogniser that recognises texts. Veiwers can import more directories as per their requirements.
+Alexa is a kind of recognizer that recognizes texts. Viewers can import more directories as per their requirements.
